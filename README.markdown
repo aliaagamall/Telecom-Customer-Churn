@@ -33,3 +33,5 @@ This project analyzes customer churn for Meven, a fictional telecom company, usi
 3. **Data**:
 
    - The `Data` folder has the raw datasets. Load them into Power BI if you want to rebuild the analysis.
+  
+   ![](https://github.com/aliaagamall/Telecom-Customer-Churn/blob/main/Report%20Demo.gif)
